@@ -1,0 +1,12 @@
+{
+  "$schema": "https://jorgebandeo.github.io/Portfolio/schema/project-v1.schema.json",
+  "schemaVersion": 1,
+  "project": {"id":"linguagens-formais-automatos","name":"Linguagens Formais e Autômatos","subtitle":"Exercícios acadêmicos de linguagens formais e teoria da computação","status":"academic"},
+  "categories":["software"],
+  "technologies":["Autômatos","Linguagens Formais","Teoria da Computação"],
+  "summary":"Repositório de trabalhos da disciplina de Linguagens Formais e Autômatos, reunindo exercícios e implementações relacionados aos fundamentos teóricos da computação.",
+  "highlights":["Linguagens formais","Autômatos","Teoria da computação"],
+  "media":{"gallery":[]},
+  "links":{"repository":"https://github.com/jorgebandeo/LFA"},
+  "portfolio":{"visible":true,"featured":false,"order":200}
+}
